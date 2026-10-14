@@ -1,0 +1,17 @@
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\bin\Debug\net8.0-windows\TaskThree.exe
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\bin\Debug\net8.0-windows\TaskThree.deps.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\bin\Debug\net8.0-windows\TaskThree.runtimeconfig.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\bin\Debug\net8.0-windows\TaskThree.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\bin\Debug\net8.0-windows\TaskThree.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.Form1.resources
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.csproj.GenerateResource.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.AssemblyInfoInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.AssemblyInfo.cs
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.csproj.CoreCompileInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.sourcelink.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\refint\TaskThree.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\TaskThree.genruntimeconfig.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\03-TaskThree\obj\Debug\net8.0-windows\ref\TaskThree.dll
