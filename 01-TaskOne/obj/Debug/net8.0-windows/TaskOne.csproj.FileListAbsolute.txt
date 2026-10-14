@@ -1,0 +1,17 @@
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.Form1.resources
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.csproj.GenerateResource.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.AssemblyInfoInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.AssemblyInfo.cs
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.csproj.CoreCompileInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.sourcelink.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\bin\Debug\net8.0-windows\TaskOne.exe
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\bin\Debug\net8.0-windows\TaskOne.deps.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\bin\Debug\net8.0-windows\TaskOne.runtimeconfig.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\bin\Debug\net8.0-windows\TaskOne.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\bin\Debug\net8.0-windows\TaskOne.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\refint\TaskOne.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\TaskOne.genruntimeconfig.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\01-TaskOne\obj\Debug\net8.0-windows\ref\TaskOne.dll
