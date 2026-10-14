@@ -1,0 +1,17 @@
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\bin\Debug\net8.0-windows\TaskTwo.exe
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\bin\Debug\net8.0-windows\TaskTwo.deps.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\bin\Debug\net8.0-windows\TaskTwo.runtimeconfig.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\bin\Debug\net8.0-windows\TaskTwo.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\bin\Debug\net8.0-windows\TaskTwo.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.Form1.resources
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.csproj.GenerateResource.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.AssemblyInfoInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.AssemblyInfo.cs
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.csproj.CoreCompileInputs.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.sourcelink.json
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\refint\TaskTwo.dll
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.pdb
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\TaskTwo.genruntimeconfig.cache
+H:\Programming 2\s2-26-richie-helliwell-id511001\id511001-sba-template_versionB\02-TaskTwo\obj\Debug\net8.0-windows\ref\TaskTwo.dll
